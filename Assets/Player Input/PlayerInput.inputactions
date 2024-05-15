@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "CycloneControls",
+            "id": "786a4a70-d1e5-4781-8ae9-4069035cf41b",
+            "actions": [
+                {
+                    "name": "Camera Aim",
+                    "type": "Button",
+                    "id": "65e20e0e-9438-470a-933b-419ae9902da1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2c34b25d-9c50-48a5-b3f8-372edc91d9df",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Camera Aim",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

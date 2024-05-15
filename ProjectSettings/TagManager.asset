@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cyclone
+  - Lower Edge
+  - Upper Edge
+  - Moving Paddle
+  - WayPoint
+  - Moving Paddle Target
+  - Spider
+  - Drone
+  - CentralAim
+  - LaserCutterInteractive
+  - CuttableWire
+  - ThisThing
+  - Metal Trash
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Cyclone
+  - Lower Edge
+  - Upper Edge
+  - EdgeWall
+  - Post Processing
+  - LaserCutterInteractive
+  - SpiderInteractive
+  - LighteningInteractive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
