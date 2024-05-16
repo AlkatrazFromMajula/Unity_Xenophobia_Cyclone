@@ -1,6 +1,8 @@
 Project has been temporarily abandoned, consider checking my most recent projects "Highway" and "King-Pong" first.
 
 # Unity_Xenophobia_Cyclone
+![New Project - Made with Clipchamp](https://github.com/AlkatrazFromMajula/Xenophobia/assets/61757792/a17858ef-85d6-4aa1-9a76-fc9b51c97476)
+
 Xenophobia is a game about a genetically modified cat, who will have to find out the secret of the tragedy that occured at the Martian base.
 
 The main idea behind this project is learning C# and Unity game engine. I have started game development with Unity and this poject is my sandbox.
